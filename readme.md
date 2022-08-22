@@ -20,4 +20,4 @@
   
    :musical_note: I'm currently listening:
 
-[![My Spotify](https://spotify-currently-playing-track.vercel.app/api)](https://github.com/regchiu/spotify-currently-playing-track)
+​<sub> W.I.P </sub>
