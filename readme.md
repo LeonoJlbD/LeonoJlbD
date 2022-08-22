@@ -1,5 +1,5 @@
 <img src="https://cdn.discordapp.com/attachments/189345772448251904/1011072385488785511/rickavatar.gif" alt="Reddy Prasad" align="left" width="512" height="312">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=leonojlbd&style=flat-square" alt="LeonoJlbD" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=leonojlbd&style=for-the-badge" alt="LeonoJlbD" /> </p>
 
 <h1 align="center"> Hey there, I'm Leo! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 <p align="center"> You may find me by links below: </p>
