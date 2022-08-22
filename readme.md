@@ -6,14 +6,17 @@
 
 <p align="center">
   <a href="https://twitch.tv/leon0jlbd"><img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/></a>
-  <a href="https://steamcommunity.com/id/leonojlbd/"><img src="https://img.shields.io/badge/steam-000000.svg?style=for-the-badge&logo=steam&logoColor=white"/></a>
+   <a href="https://steamcommunity.com/id/leonojlbd/"><img src="https://img.shields.io/badge/steam-000000.svg?style=for-the-badge&logo=steam&logoColor=white"/></a>
+  <a href="https://www.youtube.com/c/LeonoJlbD"><img src="https://img.shields.io/badge/youtube-ba0202.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
-<p align="center"> Also will appreciate for donation: </p>
+<p align="center"> Also will appreciate for a cup: </p>
 <p align = "center"><a href="https://www.buymeacoffee.com/leonojlbd"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br>
   
-## 💻 &nbsp; Knowledge
-  ![LUA](https://img.shields.io/badge/-LUA-333333?style=flat&logo=lua&logoColor=blue)
-  
+## 💻 &nbsp; Favv &nbsp; ⭐
+  ![LUA](https://img.shields.io/badge/-lua-333333?style=flat&logo=lua&logoColor=blue)
+  ![VSC](https://img.shields.io/badge/-VSC-333333?style=flat&logo=visualstudio&logoColor=blue)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=white)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=AdobePhotoshop&logoColor=blue)
   
    :musical_note: I'm currently listening:
 
