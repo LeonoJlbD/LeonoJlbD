@@ -9,8 +9,8 @@
    <a href="https://steamcommunity.com/id/leonojlbd/"><img src="https://img.shields.io/badge/steam-000000.svg?style=for-the-badge&logo=steam&logoColor=white"/></a>
   <a href="https://www.youtube.com/c/LeonoJlbD"><img src="https://img.shields.io/badge/youtube-ba0202.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
-<p align="center"> Also will appreciate for a cup: </p>
-<p align = "center"><a href="https://www.buymeacoffee.com/leonojlbd"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p>
+<p align="center"> <sub> Also will appreciate for a cup: </sub> </p>
+<p align = "center"><a href="https://www.buymeacoffee.com/leonojlbd"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><hr>
   
   ![snake gif](https://github.com/leonojlbd/leonojlbd/blob/output/github-contribution-grid-snake.svg)
   <br/>
