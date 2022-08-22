@@ -18,6 +18,6 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=white)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=AdobePhotoshop&logoColor=blue)
   
-   :musical_note: I'm currently listening:
-
-​<sub> W.I.P </sub>
+  <p align="left"> :musical_note: I'm currently listening: </p>
+   
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=94l65uz5wvq3yxzxewtdynl17&cover_image=true&theme=default&bar_color=9c3fd9&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=94l65uz5wvq3yxzxewtdynl17&redirect=true)
