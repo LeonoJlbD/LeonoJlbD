@@ -14,12 +14,28 @@
   
   ![snake gif](https://github.com/leonojlbd/leonojlbd/blob/output/github-contribution-grid-snake.svg)
   <br/>
-## 💻 &nbsp; Favv &nbsp; ⭐
-  ![LUA](https://img.shields.io/badge/-lua-333333?style=flat&logo=lua&logoColor=blue)
-  ![VSC](https://img.shields.io/badge/-VSC-333333?style=flat&logo=visualstudio&logoColor=blue)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=white)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=AdobePhotoshop&logoColor=blue)
   
+  
+## 💻 &nbsp; General Knowledge &nbsp; ⭐⭐⭐
+  ![LUA](https://img.shields.io/badge/-lua-2b2b2b?style=flat&logo=lua&logoColor=blue)
+  ![HTML](https://img.shields.io/badge/-HTML-2b2b2b?style=flat&logo=html5&logoColor=orange)
+  
+  
+#### &nbsp; Low-Skilled Knowledge &nbsp; ⭐
+
+  ![Py](https://img.shields.io/badge/-Python-2b2b2b?style=flat&logo=python&logoColor=yellow) 
+  ![MySQL](https://img.shields.io/badge/-MySQL-2b2b2b?style=flat&logo=mysql&logoColor=aqua)
+ 
+<hr>
+
+
   <p align="left"> :musical_note: I'm currently listening: </p>
    
+   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=94l65uz5wvq3yxzxewtdynl17&cover_image=true&theme=default&bar_color=9c3fd9&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=94l65uz5wvq3yxzxewtdynl17&redirect=true)
+
+# <p align="center"> Currently working on «Nucleus» Project. </p>
+#### <p align="center"> Half-life RolePlay, based on vanilla half-life 2 beta universe. </p>
+<a href="https://discord.gg/kQhy3YN6Uc">
+  <img  align="center"  src="https://user-images.githubusercontent.com/88797165/146930966-2bbe4bed-d02f-4db9-a5b7-b90e61502af3.png" alt="Deploy">
+</a>
